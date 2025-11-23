@@ -1,7 +1,6 @@
 # 📊 Olist E-Commerce Strategy Analysis
 
-## 📌 Project Overview
-**Role:** Junior Business Analyst  
+## 📌 Project Overview 
 **Tools:** SQL (MySQL), Window Functions, CTEs  
 **Dataset:** [Olist Brazilian E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
