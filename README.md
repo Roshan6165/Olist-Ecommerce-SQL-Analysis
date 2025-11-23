@@ -35,9 +35,9 @@ This project analyzes the sales, logistics, and customer retention data of Olist
 ---
 
 ## 📂 Project Structure
-* `analysis_queries.sql`: Contains the raw SQL code for all 7 KPIs, commented and organized.
+* `Olist_sql_analysis.sql`: Contains the raw SQL code for all 7 KPIs, commented and organized.
 * `README.md`: This summary report.
 
 ---
 
-*This project was created by [Saurabh Kumar Kushwaha] as part of a portfolio series.*
+*This project was created by [Roshan Kumar Gupta] as part of a portfolio series.*
